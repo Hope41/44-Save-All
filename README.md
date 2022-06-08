@@ -19,5 +19,5 @@ These were the steps I took:
 
 [**PLAY THE GAME**](https://js13kgames.com/entries/44-save-all) &nbsp;&nbsp;(It's not very good)
 
-Note this isn't the usual way to make a game - and that's probably why it turned out so bad.
+Note this isn't the usual way to make a game - and that's probably why it turned out so boring.
 On the other hand, it _was_ one of the first playable games I built in JavaScript (and graphicly this was my best yet) - but that's still no excuse.
