@@ -1,7 +1,7 @@
 # 44 Save All
 
 ### My first entry to JS13kgames
-Use the arrow keys and the mouse to search for 5 'things' hiding in the forest. When one is found, click on it and get back to the red tree before it does.
+Use the arrow keys and the mouse to search for 5 creatures hiding in the forest. When one is found, click on it and get back to the red tree before it does.
 
 Being in an indecisive mood, I only resolved to make this experiment for js13kgames just 14 days from the deadline - thankfully, I didn't have to do much.
 These were the steps I took:
