@@ -12,7 +12,7 @@ These were the steps I took:
 - beautify it (I didn't know what true beauty was back then)
 - make the Red Tree
 - add the 'things'
-- make the world loop around infinitly (excluding the Red Tree)
+- make the world loop around infinitely (excluding the Red Tree)
 - try to fix all the glitches (the were loads - and some still remain)
 - add the start and end screen
 - submit to js13kgames
